@@ -1,0 +1,9 @@
+F:\DS\Programação e algoritmos\aula while\lista while 2\ex4\ex4\bin\Debug\ex4.exe.config
+F:\DS\Programação e algoritmos\aula while\lista while 2\ex4\ex4\bin\Debug\ex4.exe
+F:\DS\Programação e algoritmos\aula while\lista while 2\ex4\ex4\bin\Debug\ex4.pdb
+F:\DS\Programação e algoritmos\aula while\lista while 2\ex4\ex4\obj\Debug\ex4.csprojResolveAssemblyReference.cache
+F:\DS\Programação e algoritmos\aula while\lista while 2\ex4\ex4\obj\Debug\ex4.exe
+F:\DS\Programação e algoritmos\aula while\lista while 2\ex4\ex4\obj\Debug\ex4.pdb
+I:\DS\Programação e algoritmos\aula while\lista while 2\ex4\ex4\bin\Debug\ex4.exe.config
+I:\DS\Programação e algoritmos\aula while\lista while 2\ex4\ex4\obj\Debug\ex4.exe
+I:\DS\Programação e algoritmos\aula while\lista while 2\ex4\ex4\obj\Debug\ex4.pdb
